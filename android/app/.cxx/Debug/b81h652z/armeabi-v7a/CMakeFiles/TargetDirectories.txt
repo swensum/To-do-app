@@ -1,0 +1,2 @@
+/Users/sumitbaba/Desktop/todo_list/android/app/.cxx/Debug/b81h652z/armeabi-v7a/CMakeFiles/edit_cache.dir
+/Users/sumitbaba/Desktop/todo_list/android/app/.cxx/Debug/b81h652z/armeabi-v7a/CMakeFiles/rebuild_cache.dir
