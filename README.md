@@ -36,18 +36,20 @@ This To-Do app is designed to help users manage their daily tasks with ease and 
 ---
 
 ## 📊 Productivity Insights
-
 ### 🥧 Task Completion Distribution (Pie Chart)
 
-![Pie Chart - Task Categories](./screenshots/piechart.jpg)
+<p align="center">
+  <img src="./screenshots/piechart.jpg" alt="Pie Chart - Task Categories"  width="300" height="600" />
+</p>
 
 > *Shows how tasks are distributed across categories like Work, Personal, and Study.*
 
 ---
-
 ### 📅 Daily Productivity Overview (Bar Chart)
 
-![Bar Chart - Daily Productivity](./screenshots/bargraph.jpg)
+<p align="center">
+  <img src="./screenshots/bargraph.jpg" alt="Bar Chart - Daily Productivity"  width="300" height="600" />
+</p>
 
 > *Displays how many tasks are completed on different days of the week.*
 
@@ -63,22 +65,27 @@ This To-Do app is designed to help users manage their daily tasks with ease and 
 </p>
 
 ---
-
 ### ➕ Add Tasks Page
 
-![Add Page](./screenshots/AddPage.jpg)
+<p align="center">
+  <img src="./screenshots/AddPage.jpg" alt="Add Page"  width="300" height="600" />
+</p>
 
 ---
 
 ### 📝 Edit Tasks Page
 
-![Edit Page](./screenshots/Editpage.jpg)
+<p align="center">
+  <img src="./screenshots/Editpage.jpg" alt="Edit Page"  width="300" height="600" />
+</p>
 
 ---
 
 ### 📆 Calendar View – Select Dates & Time
 
-![Calendar](./screenshots/Calender.jpg)
+<p align="center">
+  <img src="./screenshots/Calender.jpg" alt="Calendar"  width="300" height="600" />
+</p>
 
 ---
 
@@ -91,10 +98,11 @@ This To-Do app is designed to help users manage their daily tasks with ease and 
 </p>
 
 ---
-
 ### ✅ Completed Tasks Overview
 
-![Completed Task](./screenshots/Completetasks.jpg)
+<p align="center">
+  <img src="./screenshots/Completetasks.jpg" alt="Completed Task"  width="300" height="600" />
+</p>
 
 ---
 
@@ -154,3 +162,4 @@ For feedback or questions, reach out via:
 If you like this project, please ⭐️ it and share it with your friends!
 
 ---
+gi
