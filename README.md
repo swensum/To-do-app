@@ -39,7 +39,7 @@ This To-Do app is designed to help users manage their daily tasks with ease and 
 ### 🥧 Task Completion Distribution (Pie Chart)
 
 <p align="center">
-  <img src="./screenshots/piechart.jpg" alt="Pie Chart - Task Categories"  width="300" height="200" />
+  <img src="./screenshots/piechart.jpg" alt="Pie Chart - Task Categories"  width="300" height="600" />
 </p>
 
 > *Shows how tasks are distributed across categories like Work, Personal, and Study.*
@@ -48,7 +48,7 @@ This To-Do app is designed to help users manage their daily tasks with ease and 
 ### 📅 Daily Productivity Overview (Bar Chart)
 
 <p align="center">
-  <img src="./screenshots/bargraph.jpg" alt="Bar Chart - Daily Productivity"  width="300" height="200" />
+  <img src="./screenshots/bargraph.jpg" alt="Bar Chart - Daily Productivity"  width="300" height="600" />
 </p>
 
 > *Displays how many tasks are completed on different days of the week.*
@@ -68,7 +68,7 @@ This To-Do app is designed to help users manage their daily tasks with ease and 
 ### ➕ Add Tasks Page
 
 <p align="center">
-  <img src="./screenshots/AddPage.jpg" alt="Add Page"  width="300" height="200" />
+  <img src="./screenshots/AddPage.jpg" alt="Add Page"  width="300" height="600" />
 </p>
 
 ---
@@ -76,7 +76,7 @@ This To-Do app is designed to help users manage their daily tasks with ease and 
 ### 📝 Edit Tasks Page
 
 <p align="center">
-  <img src="./screenshots/Editpage.jpg" alt="Edit Page"  width="300" height="200" />
+  <img src="./screenshots/Editpage.jpg" alt="Edit Page"  width="300" height="600" />
 </p>
 
 ---
@@ -84,7 +84,7 @@ This To-Do app is designed to help users manage their daily tasks with ease and 
 ### 📆 Calendar View – Select Dates & Time
 
 <p align="center">
-  <img src="./screenshots/Calender.jpg" alt="Calendar"  width="300" height="200" />
+  <img src="./screenshots/Calender.jpg" alt="Calendar"  width="300" height="600" />
 </p>
 
 ---
@@ -101,7 +101,7 @@ This To-Do app is designed to help users manage their daily tasks with ease and 
 ### ✅ Completed Tasks Overview
 
 <p align="center">
-  <img src="./screenshots/Completetasks.jpg" alt="Completed Task"  width="300" height="200" />
+  <img src="./screenshots/Completetasks.jpg" alt="Completed Task"  width="300" height="600" />
 </p>
 
 ---
